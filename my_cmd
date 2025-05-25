@@ -1,0 +1,2 @@
+bin/champsim --warmup-instructions 5000 --simulation-instructions 500000 453.povray-252B.champsimtrace.xz
+
