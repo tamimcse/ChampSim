@@ -1,2 +1,4 @@
 bin/champsim --warmup-instructions 200000 --simulation-instructions 500000 453.povray-252B.champsimtrace.xz
 
+/home/tamim/.local/share/umake/ide/eclipse-cpp/eclipse
+
