@@ -1,6 +1,6 @@
 To create trace:
 export PIN_ROOT=/home/tamim/pin-3.22-98547-g7a303a835-gcc-linux/
-$PIN_ROOT/pin -t obj-intel64/champsim_tracer.so -- ./main_ip6
+$PIN_ROOT/pin -t obj-intel64/champsim_tracer.so -- /home/tamim/prefetch/main_ip6 -o poptrie_trace.champsim
 
 Champsim command:
 bin/champsim --warmup-instructions 200000 --simulation-instructions 500000 453.povray-252B.champsimtrace.xz
